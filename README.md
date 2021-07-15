@@ -1,2 +1,3 @@
 ### Hola! 👋
-Estoy trabajando en este repositorio constantemente ya que lo uso como pagina principal para mi persona te agradezco mucho que estés mirando!.
+Bienvenido de mi perfil de Github.
+Ando trabajando en él asi que veremos que cambios surgen en las proximas semanas!
