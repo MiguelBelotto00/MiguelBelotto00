@@ -20,4 +20,8 @@ Tengo como Hobbie jugar videojuegos 🎮 ,hacer ejercicio, leer libros y mangas.
 ![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-[![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelBelotto00)](https://github.com/MiguelBelotto00//github-readme-stats)
+
+
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiguelBelotto00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelBelotto00&layout=compact&langs_count=8&theme=algolia"/>
