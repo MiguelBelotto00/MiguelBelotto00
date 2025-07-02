@@ -1,22 +1,34 @@
-# Hola, soy Miguel 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi,%20I'm%20Miguel!%20👋&animation=fadeIn&fontSize=60&fontAlignY=38" alt="Header Saying Hi, I'm Miguel!"/>
+</p>
 
-Un desarrollador de software, actualmente me especializo en aplicaciones móviles con Flutter como framework principal.
-
-Me entusiasman mucho las tecnologías con sus distintas áreas, por eso es posible que encuentres mucho código de varios lenguajes :) Tranquilo, es código que algún día pienso terminar. Además de eso, me gusta participar en proyectos que tengan un impacto social tanto en el aprendizaje como en la calidad de vida de las personas.
-
-
-## Encuentrame en mis redes sociales 😁🗺️
- - Escribiendo en [Twitter](https://twitter.com/MiguelBelotto00)
- - Compartiendo mi trabajo en [Linkedin](https://www.linkedin.com/in/miguel-belotto/)
-
-
-## Mis Skills
-![Image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-
+<div align="start">
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiguelBelotto00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelBelotto00&layout=compact&langs_count=8&theme=algolia"/>
+I'm a software developer from Paraguay who loves building cool things for mobile. My main focus is creating smooth and beautiful apps with **Flutter**.
+
+I enjoy exploring all kinds of technologies, so you'll find a bit of everything in my repositories. I'm especially passionate about building projects that can help people and make a positive impact.
+
+</div>
+
+### 🛠️ My Tech Toolbox
+
+These are the main tools and technologies I enjoy working with:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,typescript,nodejs&perline=5" />
+  </a>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to connecting with other developers. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-belotto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  </p>
